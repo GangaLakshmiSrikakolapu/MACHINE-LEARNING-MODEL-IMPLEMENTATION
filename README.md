@@ -108,6 +108,8 @@ Copy code
 
 Bash
 
+python:spam_detection.py
+
 jupyter:spam_model.ipynb
 
 Provide Input Dataset: Place CSV files in the designated folder or specify the path in the script.
